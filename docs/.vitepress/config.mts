@@ -5,7 +5,7 @@ export default defineConfig({
   description: '面向中文用户的 AI 工具导航与使用指南',
   lang: 'zh-CN',
   base: process.env.BASE_PATH || '/',
-  cleanUrls: true,
+  cleanUrls: false,
   lastUpdated: true,
   head: [
     ['meta', { name: 'theme-color', content: '#2563eb' }],

@@ -34,44 +34,44 @@ features:
   <div class="hub-card">
     <h3>ChatGPT</h3>
     <p>适合通用问答、写作、办公、学习和编程辅助，是很多中文用户的 AI 入门首选。</p>
-    <a href="/chatgpt">查看指南</a>
+    <a href="chatgpt.html">查看指南</a>
   </div>
   <div class="hub-card">
     <h3>Claude</h3>
     <p>适合长文档阅读、报告整理、写作润色和复杂资料分析，偏向文档型工作流。</p>
-    <a href="/claude">查看指南</a>
+    <a href="claude.html">查看指南</a>
   </div>
   <div class="hub-card">
     <h3>Gemini</h3>
     <p>适合 Google 生态用户、资料检索、多模态理解和学习办公中的信息整理。</p>
-    <a href="/gemini">查看指南</a>
+    <a href="gemini.html">查看指南</a>
   </div>
   <div class="hub-card">
     <h3>Grok</h3>
     <p>适合热点观察、社交平台内容理解、短帖生成和轻量观点整理。</p>
-    <a href="/grok">查看指南</a>
+    <a href="grok.html">查看指南</a>
   </div>
   <div class="hub-card">
     <h3>Suno</h3>
     <p>适合 AI 音乐生成、歌曲 Demo、短视频配乐和创意音乐探索。</p>
-    <a href="/suno">查看指南</a>
+    <a href="suno.html">查看指南</a>
   </div>
   <div class="hub-card">
     <h3>Cursor</h3>
     <p>适合开发者在真实项目中进行代码理解、修改、重构、排错和测试辅助。</p>
-    <a href="/cursor">查看指南</a>
+    <a href="cursor.html">查看指南</a>
   </div>
 </div>
 
 ## 使用指南入口
 
 <div class="quick-list">
-  <a href="/guides/how-to-choose-ai-tools">如何选择适合自己的 AI 工具</a>
-  <a href="/guides/ai-tools-for-students">学生如何使用 AI 工具</a>
-  <a href="/guides/ai-tools-for-work">工作场景中的 AI 工具用法</a>
-  <a href="/guides/ai-tools-for-creators">创作者 AI 工具指南</a>
-  <a href="/guides/ai-tools-for-developers">开发者 AI 工具指南</a>
-  <a href="/faq">常见问题 FAQ</a>
+  <a href="guides/how-to-choose-ai-tools.html">如何选择适合自己的 AI 工具</a>
+  <a href="guides/ai-tools-for-students.html">学生如何使用 AI 工具</a>
+  <a href="guides/ai-tools-for-work.html">工作场景中的 AI 工具用法</a>
+  <a href="guides/ai-tools-for-creators.html">创作者 AI 工具指南</a>
+  <a href="guides/ai-tools-for-developers.html">开发者 AI 工具指南</a>
+  <a href="faq.html">常见问题 FAQ</a>
 </div>
 
 ## RockAI 服务介绍
